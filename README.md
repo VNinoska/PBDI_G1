@@ -1,7 +1,6 @@
 # PBDI_G1
-Proyecto Cayetano: Detección y Alerta Epilepsia
+Proyecto Cayetano: Detección y Alerta Epilepsia mediante wearable 24/7
 
-***VERSION BORRADOR
 | Integrantes: | Descripción: | Rol: |
 | ----- | :---- | :---- |
 | **ARIANA MARCELA DEXTRE PALOMINO  ...** |  Estudiante de 6to-7mo ciclo de ingeniería biomédica interesada en Ingeniería de Tejidos y en Señales e imágenes biomédicas. |  **Encargada de Programación (Sensores y Actuadores):** *Responsable del desarrollo e implementación del código necesario para la correcta adquisición de datos desde sensores y el control de actuadores. Se encarga de la lógica de funcionamiento del sistema embebido, asegurando una interacción eficiente entre hardware y software.*. |
