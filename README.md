@@ -1,13 +1,11 @@
 # PBDI_G1
-Proyecto Cayetano
-### Integrantes:
+Proyecto Cayetano: Detección y Alerta Epilepsia
 
-* ARIANA MARCELA DEXTRE PALOMINO
-
-* CAMILA ALEXANDRA ESCOBAR CHERO
-
-* DANIEL JESUS NAVARRO LOPEZ
-
-* JOSE MARTIN ORELLANA OLORTEGUI
-
-* VIVIANA NINOSKA RIVERA GUILLEN
+***VERSION BORRADOR
+| Integrantes: | Descripción: | Rol: |
+| ----- | :---- | :---- |
+| **ARIANA MARCELA DEXTRE PALOMINO  ...** |  Estudiante de 6to-7mo ciclo de ingeniería biomédica interesada en ingeniería de tejidos y en señales e imágenes biomédicas. |  **Diseño 3D** *Como encargada del diseño 3D, crearé modelos tridimensionales detallados y ajustaré el diseño protésico según las necesidades del usuario para asegurar que el producto sea funcional y cómodo*. |
+| **CAMILA ALEXANDRA ESCOBAR CHERO ![image2](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Camila%20Escobar%20(foto%20github).jpeg)** |  Estudiante de Ingeniería Biomédica de 6to-7mo ciclo interesado en Ingeniería de tejidos y biomecánica. |  **Encargado de la manufactura digital:** *Como encargado de la manufactura digital desarrollaré estrategias para integrar diversas tecnologías en el diseño y fabricación del producto final. Además supervisaré la implementación de herramientas de impresión 3D y corte láser.*  |
+| **DANIEL JESUS NAVARRO LOPEZ ![image3](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Mateo%20Navarro%20(foto%20github).jpeg)** |  Estudiante de 6to-7mo ciclo de la carrera de ingeniería biomédica. Interesada en Ingeniería de biomateriales e ingeniería clínica. |  **Coordinadora y encargada del Git:** *Como coordinadora y responsable del Git, gestionaré el control de versiones y cambios en el repositorio. Coordinaré las actualizaciones del proyecto y ofreceré soporte al equipo en el uso de Git. También me aseguraré de que la documentación e información sea precisa y confiable.* |
+| **JOSE MARTIN ORELLANA OLORTEGUI** ![image4](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Mart%C3%ADn%20Orellana%20(foto%20github).jpeg) |  Estudiante de 6to-7mo ciclo de la carrera de ingeniería biomédica. Interesada en Ingeniería de tejidos y en Biomecánica. |  **Encargada de la elaboración del prototipado:** Como encargada de la *elaboración del prototipado, diseñaré y desarrollaré el prototipo utilizando diversas técnicas y herramientas. Además coordinaré el proceso desde la conceptualización hasta la fabricación, asegurando que los prototipos cumplan con los requisitos y estándares del usuario.*  |
+| **VIVIANA NINOSKA RIVERA GUILLÉN** ![image5](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Viviana%20Rivera%20(foto%20github).png) |  Estudiante de 6to-7mo ciclo de ingeniería biomédica interesada en ingeniería de tejidos y Biomecánica. |  **Encargada del diseño electrónico.** *Como encargada del diseño electrónico, desarrollaré esquemas y circuitos electrónicos para el proyecto, asegurando su funcionalidad y eficiencia. Asimismo, coordinaré y supervisaré la integración de los componentes y sistemas electrónicos al prototipo.* |
