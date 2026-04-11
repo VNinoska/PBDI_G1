@@ -9,7 +9,7 @@ Proyecto Cayetano: Detección y Alerta Epilepsia mediante wearable 24/7
 | **JOSE MARTIN ORELLANA OLORTEGUI** ![image4](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Mart%C3%ADn%20Orellana%20(foto%20github).jpeg) |  Estudiante de 6to-7mo ciclo de la carrera de ingeniería biomédica. Interesado en Ingeniería Clínica e investigación. |  **Encargada de Manufactura Digital y Ensamblaje:** *Como encargado de la manufactura digital, desarrollaré estrategias para integrar diversas tecnologías en el diseño y fabricación del producto final. Además supervisaré la implementación de herramientas de impresión 3D y corte láser. Además, diseñaré y desarrollaré el prototipo utilizando diversas técnicas y herramientas, asegurando que los prototipos cumplan con los requisitos y estándares del usuario.*  |
 | **VIVIANA NINOSKA RIVERA GUILLÉN** ![image5](https://github.com/VNinoska/PBDI_G1/blob/main/Fotos/Viviana%20Rivera%20(foto%20github).png) |  Estudiante de 6to-7mo ciclo de ingeniería biomédica interesada en Ingeniería de Tejidos y Biomecánica. |  **Encargada del Diseño Electrónico:** *Como encargada del diseño electrónico, desarrollaré esquemas y circuitos electrónicos para el proyecto, incluyendo el diseño de PCB, asegurando su funcionalidad y eficiencia. Asimismo, coordinaré y supervisaré la integración de los componentes y sistemas electrónicos al prototipo con correcto funcionamiento eléctrico. También me aseguraré de que la documentación e información sea precisa y confiable.* |
 
-##
+#
 
-## JUSTIFICACAIÓN DE PROBLEMÁTICA:
+## JUSTIFICACIÓN DE PROBLEMÁTICA:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2989212/ [Aporta: Relación directa entre HRV y riesgo de crisis/SUDEP]
