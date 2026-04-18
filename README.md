@@ -1,5 +1,5 @@
 # PBDI_G1
-Proyecto Cayetano: Sistema de Monitoreo integral y Alerta durante fase ictal de Epilepsia en Adultos mediante wearable 24/7
+Proyecto Cayetano: Sistema de Monitoreo integral y Alerta durante fase ictal de Epilepsia en Adultos con Diagnóstico Previo mediante wearable 24/7
 
 | Integrantes: | Descripción: | Rol: |
 | ----- | :---- | :---- |
