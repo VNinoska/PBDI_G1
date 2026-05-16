@@ -1,0 +1,2 @@
+- Selección General de Componentes: https://docs.google.com/document/d/1pZPCoF52XxOzxT6uILVVyRK8VGpc8gEwv_myE6ANl_E/edit?usp=sharing
+- Desarrollo de Entrevistas: https://docs.google.com/document/d/1xhnL_rCObnTErkgB0tgUGGEXadNCNJuvyOCn2BinBj0/edit?usp=sharing
