@@ -21,3 +21,10 @@
 6) Modelado Versión 1 para Caja 2 (Parlante Bluetooth)
 
 ![image6](https://github.com/VNinoska/PBDI_G1/blob/main/Hardware/Modelado%20Caja%202%20(V1).jpg)
+
+### Justificación de Proceso:
+[Ruteado, Pasos a Seguir & Batería](https://github.com/VNinoska/PBDI_G1/blob/main/Hardware/PCB_PDB1_EsquematicoFinal_G1_20261_2026-06-25.epro2)
+### Esquematico Final:
+<img width="853" height="467" alt="Captura de pantalla 2026-06-26 152640" src="https://github.com/user-attachments/assets/6262235c-9a55-447c-bd3a-586e137298fb" />
+
+[Proyecto de EasyEda](https://github.com/VNinoska/PBDI_G1/blob/main/Hardware/PDB1_Esquematico_G1_20261_2026-06-24.eprj2)
